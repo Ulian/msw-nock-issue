@@ -1,0 +1,27 @@
+{
+  "name": "msw-nock-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ulian/msw-nock-issue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ulian/msw-nock-issue/issues"
+  },
+  "homepage": "https://github.com/Ulian/msw-nock-issue#readme",
+  "devDependencies": {
+    "jest": "^28.1.0",
+    "msw": "^0.42.0",
+    "nock": "^13.2.4"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
