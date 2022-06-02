@@ -18,7 +18,7 @@
   "homepage": "https://github.com/Ulian/msw-nock-issue#readme",
   "devDependencies": {
     "jest": "^28.1.0",
-    "msw": "^0.42.0",
+    "msw": "0.36.8",
     "nock": "^13.2.4"
   },
   "dependencies": {
